@@ -17,7 +17,7 @@ ui <- fluidPage(theme = shinytheme("superhero"),
    
    # Application title
     titlePanel(withTags(
-      div("Shiny Image Galleries",
+      div("Shiny Image Galleries - Not Main",
           div(class = 'pull-right',
               a(href = 'https://github.com/mrjoh3/shiny-gallery-example',
                 icon('github'))), hr() )
